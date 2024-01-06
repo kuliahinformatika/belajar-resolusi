@@ -1,0 +1,5 @@
+RENCANA BELAJAR
+- FUDAMENTAL PYTHON
+* List Type Data
+* lopping
+- SCREPING
