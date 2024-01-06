@@ -8,6 +8,10 @@ RENCANA BELAJAR
    ~ output variabel
 * Type data
 * oprator
+ - aritmatika    - logika
+ - perbandingan  - Keangotaan
+ - penugasan     - identitas
+ - biner         - metode string
 * List Type Data
 * lopping
 - SCREPING
