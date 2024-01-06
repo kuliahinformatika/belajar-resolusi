@@ -1,5 +1,7 @@
 RENCANA BELAJAR
 - FUDAMENTAL PYTHON
+* variabel
+* oprator
 * List Type Data
 * lopping
 - SCREPING
