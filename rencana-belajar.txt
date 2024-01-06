@@ -6,6 +6,7 @@ RENCANA BELAJAR
    ~ multiple value
    ~ 1 nilai untuk beberapa variabel
    ~ output variabel
+* Type data
 * oprator
 * List Type Data
 * lopping
