@@ -2,6 +2,10 @@ RENCANA BELAJAR
 - FUDAMENTAL PYTHON
 * variabel
 * oprator
+ - aritmatika    - logika
+ - perbandingan  - Keangotaan
+ - penugasan     - identitas
+ - biner         - metode string
 * List Type Data
 * lopping
 - SCREPING
