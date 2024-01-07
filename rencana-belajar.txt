@@ -2,16 +2,24 @@ RENCANA BELAJAR
 - FUDAMENTAL PYTHON
 * Pengenalan apa itu python
 * variabel
- - Jenis-jenis variabel
+ - Jenis-jenis variabel (3)
    ~ multiple value
    ~ 1 nilai untuk beberapa variabel
    ~ output variabel
-* Type data
-* oprator
+* Type data (10)
+ - boolean     - none
+ - complex     - string
+ - float       - list
+ - hexadecimal  -tuple
+ - int
+ - long(bulat)
+
+* oprator (8)
  - aritmatika    - logika
  - perbandingan  - Keangotaan
  - penugasan     - identitas
  - biner         - metode string
-* List Type Data
+
+* Type Data (list)
 * lopping
 - SCREPING
