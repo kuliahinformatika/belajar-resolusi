@@ -4,3 +4,4 @@ Resolusi saya :
 - mencoba git hub dengan santuiyy
 - memasang git di pycham di leptop saya
 - terjadi error d commit
+- mencoba di computer adapta
